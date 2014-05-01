@@ -1,0 +1,30 @@
+[submodule "alessndro-plugins"]
+	path = alessndro-plugins
+	url = https://github.com/alessndro/sketch-plugins
+[submodule "Framer"]
+	path = Framer
+	url = https://github.com/bomberstudios/sketch-framer
+[submodule "Generator"]
+	path = Generator
+	url = https://github.com/bomberstudios/sketch-generator
+[submodule "Commands"]
+	path = Commands
+	url = https://github.com/bomberstudios/sketch-commands.git
+[submodule "plugins-sebj"]
+	path = plugins-sebj
+	url = https://github.com/sebj/Sketch.git
+[submodule "Drawing Kit"]
+	path = Drawing Kit
+	url = https://github.com/groove25/DrawingKit.git
+[submodule "JW Sketch Plugins"]
+	path = JW Sketch Plugins
+	url = https://github.com/joshwayne/jw-sketch-plugins
+[submodule "Renameit"]
+	path = Renameit
+	url = https://github.com/rodi01/RenameIt.git
+[submodule "Sketch Upload"]
+	path = Sketch Upload
+	url = https://github.com/jelias/sketch-upload.git
+[submodule "Cemre Sketch Plugins"]
+	path = Cemre Sketch Plugins
+	url = https://github.com/cemre/cemre-sketch-plugins.git
