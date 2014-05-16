@@ -28,3 +28,6 @@
 [submodule "Cemre Sketch Plugins"]
 	path = Cemre Sketch Plugins
 	url = https://github.com/cemre/cemre-sketch-plugins.git
+[submodule "nadavsavio-plugins"]
+	path = nadavsavio-plugins
+	url = https://github.com/nadavsavio/sketch-plugins.git
