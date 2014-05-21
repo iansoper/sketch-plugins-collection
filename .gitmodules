@@ -34,3 +34,18 @@
 [submodule "Dynamic Button"]
 	path = Dynamic Button
 	url = https://github.com/ddwht/sketch-dynamic-button.git
+[submodule "makzan-sketch-plugins"]
+	path = makzan-sketch-plugins
+	url = https://github.com/makzan/Sketch-Plugin-Scripts
+[submodule "vrjbndr-sketch-plugins"]
+	path = vrjbndr-sketch-plugins
+	url = https://github.com/vrjbndr/sketch-plugins
+[submodule "Sketch CSS Sprite Mixin"]
+	path = Sketch CSS Sprite Mixin
+	url = https://github.com/littlebusters/Sketch-CSS-Sprite-Mixin
+[submodule "Day Player"]
+	path = Day Player
+	url = https://github.com/tylergaw/day-player
+[submodule "Random User"]
+	path = Random User
+	url = https://github.com/jimrutherford/Random-User
