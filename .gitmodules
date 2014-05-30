@@ -49,3 +49,6 @@
 [submodule "Random User"]
 	path = Random User
 	url = https://github.com/jimrutherford/Random-User
+[submodule "Blade"]
+	path = Blade
+	url = git@github.com:sskyy/blade.git
