@@ -52,3 +52,6 @@
 [submodule "Blade"]
 	path = Blade
 	url = git@github.com:sskyy/blade.git
+[submodule "tarngerine-plugins"]
+	path = tarngerine-plugins
+	url = https://github.com/tarngerine/sketch-plugins
