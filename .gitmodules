@@ -1,9 +1,6 @@
 [submodule "alessndro-plugins"]
 	path = alessndro-plugins
 	url = https://github.com/alessndro/sketch-plugins
-[submodule "Framer"]
-	path = Framer
-	url = https://github.com/bomberstudios/sketch-framer
 [submodule "Generator"]
 	path = Generator
 	url = https://github.com/bomberstudios/sketch-generator
@@ -55,3 +52,9 @@
 [submodule "tarngerine-plugins"]
 	path = tarngerine-plugins
 	url = https://github.com/tarngerine/sketch-plugins
+[submodule "KrevedAccky-Plugins"]
+	path = KrevedAccky-Plugins
+	url = https://github.com/KrevedAccky/SketchPlugins
+[submodule "Framer 3"]
+	path = Framer 3
+	url = https://github.com/bomberstudios/sketch-framer-3
