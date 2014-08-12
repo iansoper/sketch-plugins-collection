@@ -56,5 +56,5 @@
 	path = KrevedAccky-Plugins
 	url = https://github.com/KrevedAccky/SketchPlugins
 [submodule "Framer 3"]
-	path = Framer
+	path = Framer 3
 	url = https://github.com/bomberstudios/sketch-framer-3
