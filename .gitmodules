@@ -64,3 +64,6 @@
 [submodule "Sort Layers"]
 	path = Sort Layers
 	url = git@github.com:getflourish/Sketch-Sort-Layers.git
+[submodule "Icon Stamper"]
+	path = Icon Stamper
+	url = git@github.com:tylergaw/icon-stamper.git
