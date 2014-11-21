@@ -67,3 +67,6 @@
 [submodule "Icon Stamper"]
 	path = Icon Stamper
 	url = git@github.com:tylergaw/icon-stamper.git
+[submodule "SketchSplitDivide"]
+	path = SketchSplitDivide
+	url = https://github.com/KrevedAccky/SketchSplitDivide
