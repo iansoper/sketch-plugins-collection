@@ -31,9 +31,6 @@
 [submodule "nadavsavio-plugins"]
 	path = nadavsavio-plugins
 	url = https://github.com/nadavsavio/sketch-plugins.git
-[submodule "Dynamic Button"]
-	path = Dynamic Button
-	url = https://github.com/ddwht/sketch-dynamic-button.git
 [submodule "makzan-sketch-plugins"]
 	path = makzan-sketch-plugins
 	url = https://github.com/makzan/Sketch-Plugin-Scripts
