@@ -11,7 +11,7 @@
 	path = Commands
 	url = https://github.com/bomberstudios/sketch-commands.git
 [submodule "plugins-sebj"]
-	path = "Sebj Plugins"
+	path = "plugins-sebj"
 	url = https://github.com/sebj/Sketch.git
 [submodule "Drawing Kit"]
 	path = Drawing Kit
