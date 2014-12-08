@@ -11,7 +11,7 @@
 	path = Commands
 	url = https://github.com/bomberstudios/sketch-commands.git
 [submodule "plugins-sebj"]
-	path = plugins-sebj
+	path = "Sebj Plugins"
 	url = https://github.com/sebj/Sketch.git
 [submodule "Drawing Kit"]
 	path = Drawing Kit
@@ -29,7 +29,7 @@
 	path = Cemre Sketch Plugins
 	url = https://github.com/cemre/cemre-sketch-plugins.git
 [submodule "nadavsavio-plugins"]
-	path = nadavsavio-plugins
+	path = Nadavsavio Plugins
 	url = https://github.com/nadavsavio/sketch-plugins.git
 [submodule "Dynamic Button"]
 	path = Dynamic Button
@@ -70,3 +70,24 @@
 [submodule "SketchSplitDivide"]
 	path = SketchSplitDivide
 	url = https://github.com/KrevedAccky/SketchSplitDivide
+[submodule "Content Generator"]
+	path = Content Generator
+	url = https://github.com/timuric/content-generator-sketch-plugin
+[submodule "CSS Sprite Mixin"]
+	path = CSS Sprite Mixin
+	url = https://github.com/littlebusters/sketch-css-sprite-mixin
+[submodule "Notebook"]
+	path = Notebook
+	url = https://github.com/marcosvidal/sketch-notebook
+[submodule "Copy SCSS Colors"]
+	path = "Copy SCSS Colors"
+	url = https://github.com/graphical-iain/copy-scss-colors
+[submodule "thaanatext"]
+	path = "thaanatext"
+	url = https://github.com/ajaaibu/thaanatext
+[submodule "Select Similar Text Layers"]
+	path = "Select Similar Text Layers"
+	url = https://github.com/getflourish/sketch-select-similar-text-layers-plugin
+[submodule "Export CSS Text Styles"]
+	path = Export CSS Text Styles
+	url = https://github.com/getflourish/sketch-export-text-styles
