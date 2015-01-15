@@ -88,3 +88,6 @@
 [submodule "Export CSS Text Styles"]
 	path = Export CSS Text Styles
 	url = https://github.com/getflourish/sketch-export-text-styles
+[submodule "CSS Buddy"]
+	path = CSS Buddy
+	url = git@github.com:jodyheavener/CSS-Buddy.git
