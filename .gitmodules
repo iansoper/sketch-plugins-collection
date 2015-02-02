@@ -100,3 +100,12 @@
 [submodule "Sync Plugins"]
 	path = Sync Plugins
 	url = https://github.com/NathanRutzky/Sync-Plugins
+[submodule "Bookmarker"]
+	path = Bookmarker
+	url = https://github.com/turbobabr/Bookmarker
+[submodule "Toggle Locked Layers"]
+	path = Toggle Locked Layers
+	url = https://github.com/ribot/sketch-toggle-locked-layers
+[submodule "Arrange Artboards"]
+	path = Arrange Artboards
+	url = https://github.com/kenmoore/sketch-arrange-artboards
