@@ -109,3 +109,6 @@
 [submodule "Arrange Artboards"]
 	path = Arrange Artboards
 	url = https://github.com/kenmoore/sketch-arrange-artboards
+[submodule "Measure"]
+	path = Measure
+	url = https://github.com/utom/sketch-measure
