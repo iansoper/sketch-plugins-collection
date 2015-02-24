@@ -49,9 +49,6 @@
 [submodule "Blade"]
 	path = Blade
 	url = git@github.com:sskyy/blade.git
-[submodule "tarngerine-plugins"]
-	path = tarngerine-plugins
-	url = https://github.com/tarngerine/sketch-plugins
 [submodule "KrevedAccky-Plugins"]
 	path = KrevedAccky-Plugins
 	url = https://github.com/KrevedAccky/SketchPlugins
@@ -112,3 +109,9 @@
 [submodule "Measure"]
 	path = Measure
 	url = https://github.com/utom/sketch-measure
+[submodule "Origami Export"]
+	path = Origami Export
+	url = https://github.com/tarngerine/sketch-origami-export
+[submodule "Name Artboards"]
+	path = Name Artboards
+	url = https://github.com/tarngerine/sketch-name-artboards
