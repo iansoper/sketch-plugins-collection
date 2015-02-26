@@ -115,3 +115,7 @@
 [submodule "Name Artboards"]
 	path = Name Artboards
 	url = https://github.com/tarngerine/sketch-name-artboards
+[submodule "Text Align"]
+	path = Text Align
+	url = https://github.com/bitinn/sketch-text-align
+	branch = master
