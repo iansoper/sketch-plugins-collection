@@ -119,3 +119,9 @@
 	path = Text Align
 	url = https://github.com/bitinn/sketch-text-align
 	branch = master
+[submodule "ColorMime"]
+	path = ColorMime
+	url = https://github.com/jtmarmon/ColorMime
+[submodule "Artboard Tools"]
+	path = Artboard Tools
+	url = https://github.com/frankko/Artboard-Tools
