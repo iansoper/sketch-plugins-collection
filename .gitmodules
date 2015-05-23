@@ -125,3 +125,9 @@
 [submodule "Artboard Tools"]
 	path = Artboard Tools
 	url = https://github.com/frankko/Artboard-Tools
+[submodule "Subtle Patterns"]
+	path = Subtle Patterns
+	url = https://github.com/dunckr/sketch-subtlepatterns
+[submodule "Data Populator"]
+	path = Data Populator
+	url = https://github.com/preciousforever/sketch-data-populator/
