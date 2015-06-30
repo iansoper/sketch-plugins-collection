@@ -94,9 +94,6 @@
 [submodule "Dynamic Button"]
 	path = Dynamic Button
 	url = https://github.com/ddwht/sketch-dynamic-button
-[submodule "Sync Plugins"]
-	path = Sync Plugins
-	url = https://github.com/NathanRutzky/Sync-Plugins
 [submodule "Bookmarker"]
 	path = Bookmarker
 	url = https://github.com/turbobabr/Bookmarker
