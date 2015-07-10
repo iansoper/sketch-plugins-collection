@@ -128,3 +128,9 @@
 [submodule "Data Populator"]
 	path = Data Populator
 	url = https://github.com/preciousforever/sketch-data-populator/
+[submodule "Clear Styles"]
+	path = Clear Styles
+	url = https://github.com/bynathan/clear-styles
+[submodule "Sketch Flex Layout"]
+	path = Sketch Flex Layout
+	url = https://github.com/hrescak/sketch-flex-layout
