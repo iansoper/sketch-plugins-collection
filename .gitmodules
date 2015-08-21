@@ -134,3 +134,6 @@
 [submodule "Sketch Flex Layout"]
 	path = Sketch Flex Layout
 	url = https://github.com/hrescak/sketch-flex-layout
+[submodule "ArtboardTricks"]
+	path = ArtboardTricks
+	url = https://github.com/romannurik/Sketch-ArtboardTricks
