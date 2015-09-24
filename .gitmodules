@@ -58,8 +58,8 @@
 [submodule "Icon Stamper"]
 	path = Icon Stamper
 	url = git@github.com:tylergaw/icon-stamper.git
-[submodule "SketchSplitDivide"]
-	path = SketchSplitDivide
+[submodule "SplitDivide"]
+	path = SplitDivide
 	url = https://github.com/KrevedAccky/SketchSplitDivide
 [submodule "Content Generator"]
 	path = Content Generator
@@ -134,3 +134,6 @@
 [submodule "ArtboardTricks"]
 	path = ArtboardTricks
 	url = https://github.com/romannurik/Sketch-ArtboardTricks
+[submodule "Palettes"]
+	path = Palettes
+	url = https://github.com/andrewfiorillo/sketch-palettes

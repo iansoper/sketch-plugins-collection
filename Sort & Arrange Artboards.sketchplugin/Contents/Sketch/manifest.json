@@ -1,0 +1,23 @@
+{
+  "author" : "",
+  "commands" : [
+    {
+      "script" : "script.cocoascript",
+      "handler" : "onRun",
+      "shortcut" : "",
+      "name" : "Sort & Arrange Artboards",
+      "identifier" : "sort & arrange artboards"
+    }
+  ],
+  "menu" : {
+    "items" : [
+      "sort & arrange artboards"
+    ],
+    "title" : "Sort & Arrange Artboards"
+  },
+  "identifier" : "com.example.sketch.b0b0caf7-58a9-403a-a02d-50ccb842316c",
+  "version" : "1.0",
+  "description" : "",
+  "authorEmail" : "",
+  "name" : "Sort & Arrange Artboards"
+}
