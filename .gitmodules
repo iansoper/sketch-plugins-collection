@@ -137,3 +137,9 @@
 [submodule "Palettes"]
 	path = Palettes
 	url = https://github.com/andrewfiorillo/sketch-palettes
+[submodule "Sort Me"]
+	path = Sort Me
+	url = https://github.com/romashamin/sort-me-sketch
+[submodule "Constraints"]
+	path = Constraints
+	url = https://github.com/bouchenoiremarc/Sketch-Constraints
