@@ -143,3 +143,6 @@
 [submodule "Constraints"]
 	path = Constraints
 	url = https://github.com/bouchenoiremarc/Sketch-Constraints
+[submodule "Data Studio"]
+	path = Data Studio
+	url = https://github.com/thetylerwolf/sketch-data-studio
