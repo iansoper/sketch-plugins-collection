@@ -85,9 +85,6 @@
 [submodule "CSS Buddy"]
 	path = CSS Buddy
 	url = git@github.com:jodyheavener/CSS-Buddy.git
-[submodule "sebj - Plugins"]
-	path = sebj - Plugins
-	url = https://github.com/sebj/Sketch
 [submodule "Dynamic Button"]
 	path = Dynamic Button
 	url = https://github.com/ddwht/sketch-dynamic-button
