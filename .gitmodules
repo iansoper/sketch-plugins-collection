@@ -143,3 +143,9 @@
 [submodule "Data Studio"]
 	path = Data Studio
 	url = https://github.com/thetylerwolf/sketch-data-studio
+[submodule "Charts.sketchplugin"]
+	path = Charts.sketchplugin
+	url = https://github.com/nolastan/charts.sketchplugin
+[submodule "Fluid"]
+	path = Fluid
+	url = https://github.com/matt-curtis/Fluid-for-Sketch
