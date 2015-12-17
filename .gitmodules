@@ -72,10 +72,6 @@
 	path = Copy SCSS Colors
 	url = https://github.com/graphical-iain/copy-scss-colors
 	branch = master
-[submodule "thaanatext"]
-	path = thaanatext
-	url = https://github.com/ajaaibu/thaanatext
-	branch = master
 [submodule "Select Similar Text Layers"]
 	path = Select Similar Text Layers
 	url = https://github.com/getflourish/sketch-select-similar-text-layers-plugin
@@ -176,3 +172,6 @@
 	path = pointgrid
 	url = https://github.com/47deg/pointgrid
 	branch = master
+[submodule "Copy SASS Colors"]
+	path = Copy SASS Colors
+	url = https://github.com/graphical-iain/copy-scss-colors
