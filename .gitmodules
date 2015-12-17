@@ -67,42 +67,55 @@
 [submodule "Notebook"]
 	path = Notebook
 	url = https://github.com/marcosvidal/sketch-notebook
+	branch = master
 [submodule "Copy SCSS Colors"]
-	path = "Copy SCSS Colors"
+	path = Copy SCSS Colors
 	url = https://github.com/graphical-iain/copy-scss-colors
+	branch = master
 [submodule "thaanatext"]
-	path = "thaanatext"
+	path = thaanatext
 	url = https://github.com/ajaaibu/thaanatext
+	branch = master
 [submodule "Select Similar Text Layers"]
-	path = "Select Similar Text Layers"
+	path = Select Similar Text Layers
 	url = https://github.com/getflourish/sketch-select-similar-text-layers-plugin
+	branch = master
 [submodule "Export CSS Text Styles"]
 	path = Export CSS Text Styles
 	url = https://github.com/getflourish/sketch-export-text-styles
+	branch = master
 [submodule "CSS Buddy"]
 	path = CSS Buddy
 	url = git@github.com:jodyheavener/CSS-Buddy.git
+	branch = master
 [submodule "Dynamic Button"]
 	path = Dynamic Button
 	url = https://github.com/ddwht/sketch-dynamic-button
+	branch = master
 [submodule "Bookmarker"]
 	path = Bookmarker
 	url = https://github.com/turbobabr/Bookmarker
+	branch = master
 [submodule "Toggle Locked Layers"]
 	path = Toggle Locked Layers
 	url = https://github.com/ribot/sketch-toggle-locked-layers
+	branch = master
 [submodule "Arrange Artboards"]
 	path = Arrange Artboards
 	url = https://github.com/kenmoore/sketch-arrange-artboards
+	branch = master
 [submodule "Measure"]
 	path = Measure
 	url = https://github.com/utom/sketch-measure
+	branch = master
 [submodule "Origami Export"]
 	path = Origami Export
 	url = https://github.com/tarngerine/sketch-origami-export
+	branch = master
 [submodule "Name Artboards"]
 	path = Name Artboards
 	url = https://github.com/tarngerine/sketch-name-artboards
+	branch = master
 [submodule "Text Align"]
 	path = Text Align
 	url = https://github.com/bitinn/sketch-text-align
@@ -110,39 +123,56 @@
 [submodule "ColorMime"]
 	path = ColorMime
 	url = https://github.com/jtmarmon/ColorMime
+	branch = master
 [submodule "Artboard Tools"]
 	path = Artboard Tools
 	url = https://github.com/frankko/Artboard-Tools
+	branch = master
 [submodule "Subtle Patterns"]
 	path = Subtle Patterns
 	url = https://github.com/dunckr/sketch-subtlepatterns
+	branch = master
 [submodule "Data Populator"]
 	path = Data Populator
 	url = https://github.com/preciousforever/sketch-data-populator/
+	branch = master
 [submodule "Clear Styles"]
 	path = Clear Styles
 	url = https://github.com/bynathan/clear-styles
+	branch = master
 [submodule "Sketch Flex Layout"]
 	path = Sketch Flex Layout
 	url = https://github.com/hrescak/sketch-flex-layout
+	branch = master
 [submodule "ArtboardTricks"]
 	path = ArtboardTricks
 	url = https://github.com/romannurik/Sketch-ArtboardTricks
+	branch = master
 [submodule "Palettes"]
 	path = Palettes
 	url = https://github.com/andrewfiorillo/sketch-palettes
+	branch = master
 [submodule "Sort Me"]
 	path = Sort Me
 	url = https://github.com/romashamin/sort-me-sketch
+	branch = master
 [submodule "Constraints"]
 	path = Constraints
 	url = https://github.com/bouchenoiremarc/Sketch-Constraints
+	branch = master
 [submodule "Data Studio"]
 	path = Data Studio
 	url = https://github.com/thetylerwolf/sketch-data-studio
+	branch = master
 [submodule "Charts.sketchplugin"]
 	path = Charts.sketchplugin
 	url = https://github.com/nolastan/charts.sketchplugin
+	branch = master
 [submodule "Fluid"]
 	path = Fluid
 	url = https://github.com/matt-curtis/Fluid-for-Sketch
+	branch = master
+[submodule "pointgrid"]
+	path = pointgrid
+	url = https://github.com/47deg/pointgrid
+	branch = master
