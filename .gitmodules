@@ -1,6 +1,3 @@
-[submodule "Framer 3"]
-	path = Framer 3
-	url = https://github.com/bomberstudios/sketch-framer-3
 [submodule "alessndro-plugins"]
 	path = alessndro-plugins
 	url = https://github.com/alessndro/sketch-plugins
