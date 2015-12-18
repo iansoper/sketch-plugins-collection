@@ -179,3 +179,7 @@
 	path = Place Linked Bitmap
 	url = https://github.com/frankko/Place-Linked-Bitmap
 	branch = master
+[submodule "Sketch Data Studio"]
+	path = Sketch Data Studio
+	url = https://github.com/thetylerwolf/sketch-data-studio
+	branch = master
