@@ -156,10 +156,6 @@
 	path = Constraints
 	url = https://github.com/bouchenoiremarc/Sketch-Constraints
 	branch = master
-[submodule "Data Studio"]
-	path = Data Studio
-	url = https://github.com/thetylerwolf/sketch-data-studio
-	branch = master
 [submodule "Charts.sketchplugin"]
 	path = Charts.sketchplugin
 	url = https://github.com/nolastan/charts.sketchplugin
