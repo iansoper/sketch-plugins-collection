@@ -148,10 +148,6 @@
 	path = Sort Me
 	url = https://github.com/romashamin/sort-me-sketch
 	branch = master
-[submodule "Constraints"]
-	path = Constraints
-	url = https://github.com/bouchenoiremarc/Sketch-Constraints
-	branch = master
 [submodule "Charts.sketchplugin"]
 	path = Charts.sketchplugin
 	url = https://github.com/nolastan/charts.sketchplugin
