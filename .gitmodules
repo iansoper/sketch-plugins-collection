@@ -132,10 +132,6 @@
 	path = Data Populator
 	url = https://github.com/preciousforever/sketch-data-populator/
 	branch = master
-[submodule "Clear Styles"]
-	path = Clear Styles
-	url = https://github.com/bynathan/clear-styles
-	branch = master
 [submodule "Sketch Flex Layout"]
 	path = Sketch Flex Layout
 	url = https://github.com/hrescak/sketch-flex-layout
@@ -183,3 +179,6 @@
 	path = Sketch Data Studio
 	url = https://github.com/thetylerwolf/sketch-data-studio
 	branch = master
+[submodule "Disconnect"]
+	path = Disconnect
+	url = https://github.com/einancunlu/Disconnect-for-Sketch
