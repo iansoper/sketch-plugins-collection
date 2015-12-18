@@ -175,3 +175,11 @@
 [submodule "Copy SASS Colors"]
 	path = Copy SASS Colors
 	url = https://github.com/graphical-iain/copy-scss-colors
+[submodule "Optimize Images"]
+	path = Optimize Images
+	url = https://github.com/peerjollux/sketch-optimizeimages
+	branch = master
+[submodule "Place Linked Bitmap"]
+	path = Place Linked Bitmap
+	url = https://github.com/frankko/Place-Linked-Bitmap
+	branch = master
