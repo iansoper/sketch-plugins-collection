@@ -1,66 +1,87 @@
 [submodule "alessndro-plugins"]
 	path = alessndro-plugins
 	url = https://github.com/alessndro/sketch-plugins
+	branch = master
 [submodule "Generator"]
 	path = Generator
 	url = https://github.com/bomberstudios/sketch-generator
+	branch = master
 [submodule "Commands"]
 	path = Commands
 	url = https://github.com/bomberstudios/sketch-commands.git
+	branch = master
 [submodule "plugins-sebj"]
-	path = "plugins-sebj"
+	path = plugins-sebj
 	url = https://github.com/sebj/Sketch.git
+	branch = master
 [submodule "Drawing Kit"]
 	path = Drawing Kit
 	url = https://github.com/groove25/DrawingKit.git
+	branch = master
 [submodule "JW Sketch Plugins"]
 	path = JW Sketch Plugins
 	url = https://github.com/joshwayne/jw-sketch-plugins
+	branch = master
 [submodule "Renameit"]
 	path = Renameit
 	url = https://github.com/rodi01/RenameIt.git
+	branch = master
 [submodule "Sketch Upload"]
 	path = Sketch Upload
 	url = https://github.com/jelias/sketch-upload.git
+	branch = master
 [submodule "Cemre Sketch Plugins"]
 	path = Cemre Sketch Plugins
 	url = https://github.com/cemre/cemre-sketch-plugins.git
+	branch = master
 [submodule "nadavsavio-plugins"]
 	path = nadavsavio-plugins
 	url = https://github.com/nadavsavio/sketch-plugins.git
+	branch = master
 [submodule "makzan-sketch-plugins"]
 	path = makzan-sketch-plugins
 	url = https://github.com/makzan/Sketch-Plugin-Scripts
+	branch = master
 [submodule "vrjbndr-sketch-plugins"]
 	path = vrjbndr-sketch-plugins
 	url = https://github.com/vrjbndr/sketch-plugins
+	branch = master
 [submodule "Sketch CSS Sprite Mixin"]
 	path = Sketch CSS Sprite Mixin
 	url = https://github.com/littlebusters/Sketch-CSS-Sprite-Mixin
+	branch = master
 [submodule "Day Player"]
 	path = Day Player
 	url = https://github.com/tylergaw/day-player
+	branch = master
 [submodule "Random User"]
 	path = Random User
 	url = https://github.com/jimrutherford/Random-User
+	branch = master
 [submodule "KrevedAccky-Plugins"]
 	path = KrevedAccky-Plugins
 	url = https://github.com/KrevedAccky/SketchPlugins
+	branch = master
 [submodule "Sketch Style Inventory"]
 	path = Sketch Style Inventory
 	url = https://github.com/getflourish/Sketch-Style-Inventory
+	branch = master
 [submodule "Icon Stamper"]
 	path = Icon Stamper
 	url = git@github.com:tylergaw/icon-stamper.git
+	branch = master
 [submodule "SplitDivide"]
 	path = SplitDivide
 	url = https://github.com/KrevedAccky/SketchSplitDivide
+	branch = master
 [submodule "Content Generator"]
 	path = Content Generator
 	url = https://github.com/timuric/content-generator-sketch-plugin
+	branch = master
 [submodule "CSS Sprite Mixin"]
 	path = CSS Sprite Mixin
 	url = https://github.com/littlebusters/sketch-css-sprite-mixin
+	branch = master
 [submodule "Notebook"]
 	path = Notebook
 	url = https://github.com/marcosvidal/sketch-notebook
@@ -160,6 +181,7 @@
 [submodule "Copy SASS Colors"]
 	path = Copy SASS Colors
 	url = https://github.com/graphical-iain/copy-scss-colors
+	branch = master
 [submodule "Optimize Images"]
 	path = Optimize Images
 	url = https://github.com/peerjollux/sketch-optimizeimages
@@ -175,3 +197,4 @@
 [submodule "Disconnect"]
 	path = Disconnect
 	url = https://github.com/einancunlu/Disconnect-for-Sketch
+	branch = master
