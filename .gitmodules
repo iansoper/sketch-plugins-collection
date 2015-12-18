@@ -2,10 +2,6 @@
 	path = alessndro-plugins
 	url = https://github.com/alessndro/sketch-plugins
 	branch = master
-[submodule "Generator"]
-	path = Generator
-	url = https://github.com/bomberstudios/sketch-generator
-	branch = master
 [submodule "Commands"]
 	path = Commands
 	url = https://github.com/bomberstudios/sketch-commands.git
