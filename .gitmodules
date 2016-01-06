@@ -194,3 +194,7 @@
 	path = Disconnect
 	url = https://github.com/einancunlu/Disconnect-for-Sketch
 	branch = master
+[submodule "Trim Artboards"]
+	path = Trim Artboards
+	url = https://github.com/arronhunt/Sketch-Trim-Artboards
+	branch = master
