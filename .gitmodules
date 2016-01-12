@@ -198,3 +198,10 @@
 	path = Trim Artboards
 	url = https://github.com/arronhunt/Sketch-Trim-Artboards
 	branch = master
+[submodule "Symbol Me"]
+	path = Symbol Me
+	url = https://github.com/websiddu/sketch-symbol-me
+[submodule "Replace Color"]
+	path = Replace Color
+	url = https://github.com/lewishowles/sketch-replace-colour
+	branch = master
