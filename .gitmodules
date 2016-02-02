@@ -205,3 +205,7 @@
 	path = Replace Color
 	url = https://github.com/lewishowles/sketch-replace-colour
 	branch = master
+[submodule "Segment Circle"]
+	path = Segment Circle
+	url = https://github.com/design4use/gb-sketch-segmentcircle
+	branch = master
