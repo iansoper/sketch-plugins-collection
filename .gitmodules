@@ -209,3 +209,7 @@
 	path = Segment Circle
 	url = https://github.com/design4use/gb-sketch-segmentcircle
 	branch = master
+[submodule "Sketch Navigator"]
+	path = Sketch Navigator
+	url = https://github.com/arshad/Sketch-Navigator
+	branch = master
