@@ -62,10 +62,6 @@
 	path = Sketch Style Inventory
 	url = https://github.com/getflourish/Sketch-Style-Inventory
 	branch = master
-[submodule "Icon Stamper"]
-	path = Icon Stamper
-	url = git@github.com:tylergaw/icon-stamper.git
-	branch = master
 [submodule "SplitDivide"]
 	path = SplitDivide
 	url = https://github.com/KrevedAccky/SketchSplitDivide
@@ -93,10 +89,6 @@
 [submodule "Export CSS Text Styles"]
 	path = Export CSS Text Styles
 	url = https://github.com/getflourish/sketch-export-text-styles
-	branch = master
-[submodule "CSS Buddy"]
-	path = CSS Buddy
-	url = git@github.com:jodyheavener/CSS-Buddy.git
 	branch = master
 [submodule "Dynamic Button"]
 	path = Dynamic Button
@@ -141,10 +133,6 @@
 [submodule "Subtle Patterns"]
 	path = Subtle Patterns
 	url = https://github.com/dunckr/sketch-subtlepatterns
-	branch = master
-[submodule "Data Populator"]
-	path = Data Populator
-	url = https://github.com/preciousforever/sketch-data-populator/
 	branch = master
 [submodule "Sketch Flex Layout"]
 	path = Sketch Flex Layout
@@ -212,4 +200,12 @@
 [submodule "Sketch Navigator"]
 	path = Sketch Navigator
 	url = https://github.com/arshad/Sketch-Navigator
+	branch = master
+[submodule "CSSketch"]
+	path = CSSketch
+	url = https://github.com/JohnCoates/CSSketch
+	branch = master
+[submodule "git-sketch-plugin"]
+	path = git-sketch-plugin
+	url = https://github.com/mathieudutour/git-sketch-plugin
 	branch = master
